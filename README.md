@@ -29,7 +29,7 @@ Mobil ve web uygulamalarla kolayca entegre edilebilecek yapıda geliştirilmişt
 ## 🖼️ Örnek Ekran Görüntüsü
 
 <p align="center">
-  <img src="assets/sample_output.jpg" width="600" alt="Plaka Tespit Örneği">
+  <img src="https://www.filizguvenlik.com.tr/wp-content/uploads/2019/04/qs1jbiGDabt7IVE98EZg.jpg" width="600" alt="Plaka Tespit Örneği">
 </p>
 
 ---
