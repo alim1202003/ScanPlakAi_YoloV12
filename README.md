@@ -1,4 +1,4 @@
-# 🚘 ScanPlakAi_YoloV12
+# 🚘 ScanPlateAi_YoloV12
 
 > **Plaka Tanıma Sistemi** – YOLOv12 ile eğitilmiş, gerçek zamanlı çalışan plaka tespit modeli  
 > Kamera görüntüsü üzerinden plakaları tespit eder ve sınıflandırır. FastAPI ile entegre backend desteği mevcuttur.
